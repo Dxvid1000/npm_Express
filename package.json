@@ -1,0 +1,26 @@
+{
+  "name": "npm_express",
+  "version": "1.0.0",
+  "description": "Mi primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dxvid1000/npm_Express.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "David Andres Vasquez Anguiano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dxvid1000/npm_Express/issues"
+  },
+  "homepage": "https://github.com/Dxvid1000/npm_Express#readme",
+  "dependencies": {
+    "express": "4.x.x"
+  }
+}
